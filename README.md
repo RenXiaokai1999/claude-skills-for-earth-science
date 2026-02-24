@@ -3,14 +3,14 @@
 🧭 学术严谨的地学技能集合，面向地质学/地层/沉积、地球物理/地震、遥感/地貌、GIS/空间分析。
 
 ![discipline](https://img.shields.io/badge/discipline-earth--science-2f5d62)
-![skills](https://img.shields.io/badge/skills-18-1f7a8c)
+![skills](https://img.shields.io/badge/skills-20-1f7a8c)
 ![install](https://img.shields.io/badge/install-project--level-2e4057)
 
 ---
 
 ### 🧾 要点卡片
 - 🧭 **适用方向**：地质学/地层/沉积、地球物理/地震、遥感/地貌、GIS/空间分析  
-- 🧩 **内容组成**：18 个精选技能，覆盖文献检索、写作、统计与制图  
+- 🧩 **内容组成**：20 个精选技能，覆盖文献检索、写作、统计与制图  
 - 📦 **安装方式**：复制 `.claude/skills` 到项目根目录即可使用  
 
 ---
@@ -31,6 +31,10 @@
 - geopandas — GIS 矢量数据处理  
 - pymatgen — 矿物/晶体结构分析  
 - astropy — 坐标/时间/行星计算  
+
+**地球化学相关**
+- pubchem-database — 化学物质数据库检索  
+- rdkit — 化学信息学与分子计算  
 
 **通用科研工具**
 - openalex-database — 跨学科文献检索  
